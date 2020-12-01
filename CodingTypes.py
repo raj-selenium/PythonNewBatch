@@ -39,7 +39,7 @@ calc2.minus()
 
 # class
 
-
+"""
 class BankAccount:
     acc_id
     balance
@@ -50,5 +50,5 @@ class BankAccount:
     get_transaction_details()
 
 BankAccount("ACC123", 40000, [10000, 30000])
-
+"""
 
