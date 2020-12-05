@@ -95,6 +95,8 @@ for i in range(5,30,5):
 for i in range(1,11):
     for j in range(1,11):
         print(f"{i} * {j} = {i*j}")
+    else:
+        print("inner for loop")
 
 # i have edited this file
 
