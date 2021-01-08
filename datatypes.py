@@ -154,7 +154,7 @@ print(fruit[-1:-5:-1])
 #-1 -1-1 -2-1  -3-1
 # guava --- avau
 
-print(fruit[2:-20:-1]) # this is not going to return any string
+#print(fruit[2:-20:-1]) # this is not going to return any string
 #2, 2-1 = 1,  1-1 = 0
 #guava   aug
 
