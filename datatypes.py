@@ -182,8 +182,8 @@ print(sentence.index("n"))
 print(sentence.index("n",7))
 # print(sentence.index("n", 7, 15)) #ValueError: substring not found
 
-print("How many n in sentence?", sentence.count("n"))
-print("How many 'ill' in sentence?", sentence.count("ill"))
+#print("How many n in sentence?", sentence.count("n"))
+#print("How many 'ill' in sentence?", sentence.count("ill"))
 print("How many space in sentence?", sentence.count(" "))
 print(sentence.count("z")) # 0
 
